@@ -18,10 +18,15 @@
 
   * **Backend:** Python
   * **Agent Framework:** LangGraph
-  * **AI Framework:** LangChain (`langchain-google-genai`)
+  * **AI Framework:** LangChain
   * **Web Framework:** Streamlit
   * **AI Model:** Google Gemini (`gemini-2.5-flash-lite`)
-  * **Dependencies:**
+  * **Key Libraries:**
+      * `langgraph`
+      * `langchain`
+      * `langchain-google-genai`
+      * `streamlit`
+      * `pydantic`
       * `python-dotenv`
 
 -----
