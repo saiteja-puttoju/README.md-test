@@ -40,7 +40,7 @@ Follow these instructions to set up and run the project on your local machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git](https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git)
+    git clone https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git
     cd langgraph-streamlit-chatbot
     ```
     ```bash
