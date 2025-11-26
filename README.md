@@ -43,10 +43,6 @@ Follow these instructions to set up and run the project on your local machine.
     git clone https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git
     cd langgraph-streamlit-chatbot
     ```
-    ```bash
-    git clone https://github.com/saiteja-puttoju/ai-story-generator.git
-    cd ai-story-generator
-    ```
 
 2.  **Create and activate a virtual environment:**
 
@@ -80,3 +76,16 @@ Once the setup is complete, you can run the Streamlit application with the follo
 
 ```bash
 streamlit run chatbot_frontend.py
+````
+
+Your web browser will automatically open to the application's user interface (usually at `http://localhost:8501`).
+
+-----
+
+## How to Use
+
+1.  Open the application in your browser.
+2.  Type your message or question into the input box at the bottom of the screen.
+3.  Press **Enter**.
+4.  The chatbot will process your input using LangGraph and display the response.
+5.  Continue the conversation; the bot will remember the context of your previous messages.
