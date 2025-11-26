@@ -43,6 +43,10 @@ Follow these instructions to set up and run the project on your local machine.
     git clone [https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git](https://github.com/saiteja-puttoju/langgraph-streamlit-chatbot.git)
     cd langgraph-streamlit-chatbot
     ```
+    ```bash
+    git clone https://github.com/saiteja-puttoju/ai-story-generator.git
+    cd ai-story-generator
+    ```
 
 2.  **Create and activate a virtual environment:**
 
